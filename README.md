@@ -1,2 +1,2 @@
 # opbprojekt
-Projekt za opb.
+Projekt za opb
